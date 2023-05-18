@@ -1,0 +1,19 @@
+public class customerCreateForErpNext{
+		public String tax_id='';
+		public Integer credit_days;
+		public String default_price_list='';
+		public Integer credit_limit;
+		public String territory='';
+		public String address_line1='';
+		public String customer_group='';
+		public String address_line2='';
+		public String website='';
+		public String city='';
+		public String mobile_no='';
+		public String state='';
+		public String email_id='';
+		public String pincode='';
+		public String customer_type='';
+		public String country='';
+		public String customer_name='';
+}
